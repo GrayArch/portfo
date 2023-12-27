@@ -15,7 +15,7 @@ export const SKILLS = [
   },
   {
     title: 'React Developer',
-    level: '91%',
+    level: '60%',
   },
   // {
   //   title: 'Desktop Application Developer',
@@ -23,10 +23,10 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '80%',
   },
   {
-    title: 'Technical Blogger',
+    title: 'Penetration Testing',
     level: '83%',
   },
 ];
@@ -35,7 +35,6 @@ export const TECH_STACK = [
   'ReactJS',
   'JavaScript',
   'NextJS',
-  'TypeScript',
   'NodeJS',
   'Redux',
   'CSS',
