@@ -10,7 +10,7 @@ const Footer = () => {
                     <div className="mr-1 text-base">
                         <AiFillCopyrightCircle />
                     </div>
-                    <span>2023 All Rights Reserved.</span>
+                    <span>2024 All Rights Reserved.</span>
                 </div>
                 <div className="flex items-center">
                     <a href='https://www.fiverr.com/codeworthy' target="_blank" rel="noreferrer">Made with ❤️ by <span className='font-bold'>Gray</span></a>
