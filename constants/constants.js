@@ -36,19 +36,17 @@ export const TECH_STACK = [
   'JavaScript',
   'NextJS',
   'NodeJS',
-  'Redux',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
+  'caido',
+  'BashScripting',
+  'Wireshark',
+  'Django',
+  'Metasploit',
+  'BurpSuite',
   'REST API',
   'MongoDB',
-  'MySQL',
+  'ArchLinux',
   'Git',
   'GitHub',
-  'Figma',
 ];
 
 export const CONTACTS = {
@@ -56,8 +54,8 @@ export const CONTACTS = {
   PHONE: '+254112395869',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/RedTeamerGray',
+  GITHUB: 'https://github.com/GrayArch',
   LINKEDIN: 'https://www.linkedin.com/in/redteamergray/',
-  TWITTER: 'https://twitter.com/14payload',
+  TWITTER: 'https://twitter.com/arch_gray_',
   FACEBOOK: 'https://www.facebook.com/14payload',
 };

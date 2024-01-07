@@ -6,7 +6,7 @@ const background = [
                 title: 'Karatina University',
                 degree: 'BSc, Information Technology',
                 detail: "Bachelor's Degree in Information Technology.",
-                year: '2018-2022'
+                year: '2021-2025'
             },
             {
                 id: 1,
@@ -22,38 +22,26 @@ const background = [
                 detail: "Completed Kenya certificate of primary education.",
                 year: '2006-2016'
             },
+            {
+                id: 3,
+                title: 'alx_Africa',
+                degree: 'Software Engineering',
+                detail: "Doing SWE-SE program With Backend Major",
+                year: '2023-2024'
+            },
         ]
     },
     {
         expCards: [
             {
                 id: 1,
-                title: 'ONIX-MARKET',
+                title: 'onix market',
                 role: 'Penetration Tester',
                 url: 'https://onix-market.com/',
                 desc: 'As a PenTester, I test the Systems To Discover Vulnerabilities And help th company Secure their Cyber Space.',
                 year: '09/2023 - Present',
                 location: 'Nairobi, Kenya'
             },
-            {
-                id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Nairobi, Kenya'
-            },
-            {
-                id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Nairobi, Kenya'
-            },
-
         ]
     }
 ]
