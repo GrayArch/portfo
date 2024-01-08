@@ -1,6 +1,6 @@
 export const NAME = 'Muriithi Dennis';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | PenTester`;
+export const DESIGNATION = `Coder | PenTester | Student`;
 
 export const DETAILS = {
   Residence: 'Kenya',
@@ -11,11 +11,11 @@ export const DETAILS = {
 export const SKILLS = [
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '35%',
   },
   {
-    title: 'React Developer',
-    level: '60%',
+    title: 'OSINT',
+    level: '70%',
   },
   // {
   //   title: 'Desktop Application Developer',
@@ -23,16 +23,16 @@ export const SKILLS = [
   // },
   {
     title: 'Backend Developer',
-    level: '80%',
+    level: '60%',
   },
   {
     title: 'Penetration Testing',
-    level: '83%',
+    level: '80%',
   },
 ];
 
 export const TECH_STACK = [
-  'ReactJS',
+  'FUF',
   'JavaScript',
   'NextJS',
   'NodeJS',
@@ -42,7 +42,7 @@ export const TECH_STACK = [
   'Django',
   'Metasploit',
   'BurpSuite',
-  'REST API',
+  'Python',
   'MongoDB',
   'ArchLinux',
   'Git',
