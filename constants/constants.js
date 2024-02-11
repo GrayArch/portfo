@@ -55,7 +55,7 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/GrayArch',
-  LINKEDIN: 'https://www.linkedin.com/in/redteamergray/',
+  LINKEDIN: 'https://www.linkedin.com/in/grayArch/',
   TWITTER: 'https://twitter.com/arch_gray_',
   FACEBOOK: 'https://www.facebook.com/14payload',
 };
